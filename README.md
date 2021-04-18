@@ -9,12 +9,8 @@
 
 -> 📫 How to reach me **adsirakoa.93@gmail.com**
 
-
-
-
-<p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://linkedin.com/in/anastasia sirakova" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="anastasia sirakova" height="30" width="40" /></a>
+<p align="left"><a href="https://linkedin.com/in/anastasia sirakova" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="anastasia sirakova" height="30" width="40" /></a>
 <a href="https://fb.com/anastasia sirakova" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="anastasia sirakova" height="30" width="40" /></a>
 <a href="https://instagram.com/adsirakova_93" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="adsirakova_93" height="30" width="40" /></a>
 </p>
@@ -26,10 +22,10 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=adsirakova93&show_icons=true&locale=en" alt="adsirakova93" /></p>
 
-🎓 Certificates |
-| :-: |
+|                                             🎓 Certificates                                             |
+| :-----------------------------------------------------------------------------------------------------: |
 | :heavy_check_mark: [**C# Programming Basics **](https://softuni.bg/certificates/details/60673/1ce28ea7) |
 | :heavy_check_mark: [**JS Programming Basics **](https://softuni.bg/Certificates/Details/76969/8519c88d) |
-| :heavy_check_mark: [**C# Advanced**](https://softuni.bg/certificates/details/104811/92d21587)      |
-| :heavy_check_mark: [**MS SQL**](https://softuni.bg/Certificates/Details/103974/8880c91c)  |      
-|:heavy_check_mark: [**Entity Framework Core**](https://softuni.bg/Certificates/Details/104411/b9384d34) |
+|      :heavy_check_mark: [**C# Advanced**](https://softuni.bg/certificates/details/104811/92d21587)      |
+|        :heavy_check_mark: [**MS SQL**](https://softuni.bg/Certificates/Details/103974/8880c91c)         |
+| :heavy_check_mark: [**Entity Framework Core**](https://softuni.bg/Certificates/Details/104411/b9384d34) |
