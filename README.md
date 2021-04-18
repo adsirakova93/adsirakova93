@@ -1,4 +1,4 @@
-<p align="center">
+
 <h1 align="center">Hi :octocat:, I'm AnastasiA 💻</h1>
  <br text-align:"center">
 <img width="150" height="40" src="https://visitor-badge.glitch.me/badge?page_id=tonchevaAleksandra">
@@ -8,7 +8,7 @@
 - :mortar_board: I’m currently learning **Software Engineering with C# in SoftUni (Software University - softuni.bg)**
 
 - 📫 How to reach me **adsirakoa.93@gmail.com**
-<p align="center">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anastasia sirakova" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="anastasia sirakova" height="30" width="40" /></a>
