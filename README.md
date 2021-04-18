@@ -1,7 +1,6 @@
 <h1 align="center">Hi :octocat:, I'm AnastasiA 💻</h1>
 <br text-align:"center">
-<img width="150" height="40" src="https://visitor-badge.glitch.me/badge?page_id=adsirakova93
-">
+<img width="150" height="40" src="https://visitor-badge.glitch.me/badge?page_id=adsirakova93">
    <br>
   <img width="200"  src="https://media.giphy.com/media/1MSVKRopegDjYONwdF/giphy.gif">
     <img width="200"  src="https://media.giphy.com/media/KNP5EQE5n2nczSFYpD/giphy.gif">
@@ -24,7 +23,7 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=adsirakova93&show_icons=true&locale=en" alt="adsirakova93" /></p>
 
-|                                            🎓 Certificates |
+🎓 Certificates |
 | :-: |
 | :heavy_check_mark: [**C# Programming Basics **](https://softuni.bg/certificates/details/60673/1ce28ea7) |
 | :heavy_check_mark: [**JS Programming Basics **](https://softuni.bg/Certificates/Details/76969/8519c88d) |
