@@ -1,5 +1,5 @@
 <h1 align="center">Hi :octocat:, I'm AnastasiA 💻</h1>
-<br text-align:"center">
+   <br text-align:"center">
 <img width="150" height="40" src="https://visitor-badge.glitch.me/badge?page_id=adsirakova93">
    <br>
   <img width="200" align="left" src="https://media.giphy.com/media/WUTywPPYZpdDChyBaZ/giphy.gif">
@@ -8,6 +8,8 @@
 -> :mortar_board: I’m currently learning **Software Engineering with C# in SoftUni (Software University - softuni.bg)**
 
 -> 📫 How to reach me **adsirakoa.93@gmail.com**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
