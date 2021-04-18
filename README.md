@@ -1,13 +1,14 @@
 <h1 align="center">Hi :octocat:, I'm AnastasiA 💻</h1>
- <br text-align:"center">
-<img width="150" height="40" src="https://visitor-badge.glitch.me/badge?page_id=tonchevaAleksandra">
-
-  <img width="200"  src="https://media.giphy.com/media/WUTywPPYZpdDChyBaZ/giphy.gif">
- <img width="200"  src=" https://media.giphy.com/media/KNP5EQE5n2nczSFYpD/giphy.gif">
+<br text-align:"center">
+<img width="150" height="40" src="https://visitor-badge.glitch.me/badge?page_id=adsirakova93
+">
    <br>
-- :mortar_board: I’m currently learning **Software Engineering with C# in SoftUni (Software University - softuni.bg)**
+  <img width="200"  src="https://media.giphy.com/media/1MSVKRopegDjYONwdF/giphy.gif">
+    <img width="200"  src="https://media.giphy.com/media/KNP5EQE5n2nczSFYpD/giphy.gif">
 
-- 📫 How to reach me **adsirakoa.93@gmail.com**
+-> :mortar_board: I’m currently learning **Software Engineering with C# in SoftUni (Software University - softuni.bg)**
+
+-> 📫 How to reach me **adsirakoa.93@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,7 +24,7 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=adsirakova93&show_icons=true&locale=en" alt="adsirakova93" /></p>
 
-🎓 Certificates |
+|                                            🎓 Certificates |
 | :-: |
 | :heavy_check_mark: [**C# Programming Basics **](https://softuni.bg/certificates/details/60673/1ce28ea7) |
 | :heavy_check_mark: [**JS Programming Basics **](https://softuni.bg/Certificates/Details/76969/8519c88d) |
