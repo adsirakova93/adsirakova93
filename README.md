@@ -3,7 +3,7 @@
  <br text-align:"center">
 <img width="150" height="40" src="https://visitor-badge.glitch.me/badge?page_id=tonchevaAleksandra">
 
-  <img width="200"  src="https://media.giphy.com/media/1MSVKRopegDjYONwdF/giphy.gif">
+  <img width="200"  src="https://media.giphy.com/media/WUTywPPYZpdDChyBaZ/giphy.gif">
    <br>
 - :mortar_board: I’m currently learning **Software Engineering with C# in SoftUni (Software University - softuni.bg)**
 
@@ -21,4 +21,13 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adsirakova93&show_icons=true&locale=en&layout=compact" alt="adsirakova93" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adsirakova93&show_icons=true&locale=en" alt="adsirakova93" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=adsirakova93&show_icons=true&locale=en" alt="adsirakova93" /></p>
+
+
+ 🎓 Certificates |
+ | :-: |
+ :heavy_check_mark: [**C# Programming Basics **](https://softuni.bg/certificates/details/60673/1ce28ea7)|
+  :heavy_check_mark: [**JS Programming Basics **](https://softuni.bg/Certificates/Details/76969/8519c88d)|
+ :heavy_check_mark: [**C# Advanced**](https://softuni.bg/certificates/details/104811/92d21587)|
+:heavy_check_mark: [**MS SQL**](https://softuni.bg/Certificates/Details/103974/8880c91c)|
+||:heavy_check_mark: [**Entity Framework Core**](https://softuni.bg/Certificates/Details/104411/b9384d34)|
