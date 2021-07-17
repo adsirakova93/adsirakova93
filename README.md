@@ -29,3 +29,6 @@
 |      :heavy_check_mark: [**C# Advanced**](https://softuni.bg/certificates/details/104811/92d21587)      |
 |        :heavy_check_mark: [**MS SQL**](https://softuni.bg/Certificates/Details/103974/8880c91c)         |
 | :heavy_check_mark: [**Entity Framework Core**](https://softuni.bg/Certificates/Details/104411/b9384d34) |
+| :heavy_check_mark: [**Entity Framework Core**](https://softuni.bg/Certificates/Details/104411/b9384d34) |
+| :heavy_check_mark: [**Unity 3D Basics**](https://softuni.bg/certificates/details/107907/22a6e899) |
+| :heavy_check_mark: [**QA Fundamentals**](https://softuni.bg/certificates/details/109301/6226a937) |
